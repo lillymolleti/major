@@ -1,0 +1,8 @@
+archive/
+*.png
+venv/
+venv310/
+real_resized_dir/
+__pycache__/
+*.pth
+*.pkl
